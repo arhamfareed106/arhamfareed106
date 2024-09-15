@@ -16,8 +16,8 @@ I’m open to working on **open-source Django projects** or taking on any intere
 I can debug Python code faster than I can finish a cup of coffee! ☕️
 
 ## Let's Connect!
-- 💬 Email:(mailto:arhamfareed575@gmail.com)
-- 🌐 LinkedIn: [https://www.linkedin.com/in/arham-fareed-python-development-django-develper/]
+- 💬 Email:arhamfareed575@gmail.com
+- 🌐 LinkedIn:https://www.linkedin.com/in/arham-fareed-python-development-django-develper/
 - 🛠️ GitHub: [@ArhamFareed](https://github.com/ArhamFareed106)
 
 Feel free to explore my work, and don’t hesitate to reach out if you’d like to collaborate or discuss anything tech-related!
