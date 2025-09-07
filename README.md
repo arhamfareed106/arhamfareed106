@@ -1,9 +1,10 @@
-Perfect 🚀 Let’s add **cool GitHub profile stats, streaks, and badges** so your README looks professional and attractive.
-Here’s the **updated version with badges & stats**:
+# 🚀 Welcome to My GitHub Profile!
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Data+Science+Expert;Deep+Learning+Specialist;NLP+%7C+LLMs+%7C+Transformers;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor" />
+</p>
 
 ---
-
-# 🚀 Welcome to My GitHub Profile!
 
 ## Who Am I?
 
@@ -61,8 +62,8 @@ I can fine-tune a Transformer model faster than I can make sense of messy CSV fi
 
 ## 🌐 Let's Connect!
 
-* 💬 Email: **[arhamfareed575@gmail.com]**
-* 🌐 LinkedIn: [Arham Fareed]((https://www.linkedin.com/in/arham-fareed-datascientist-ai-llm/))
+* 💬 Email: **[arhamfareed575@gmail.com](mailto:arhamfareed575@gmail.com)**
+* 🌐 LinkedIn: [Arham Fareed](https://www.linkedin.com/in/arham-fareed-datascientist-ai-llm/)
 * 🛠️ GitHub: [@ArhamFareed](https://github.com/ArhamFareed106)
 
 ---
@@ -70,5 +71,3 @@ I can fine-tune a Transformer model faster than I can make sense of messy CSV fi
 ✨ Feel free to explore my repositories, contribute, or just drop by to discuss **AI, NLP, and Deep Learning**!
 
 ---
-
-👉 Do you want me to also add a **cool animated banner (GIF or SVG)** at the top that highlights “Data Science | Deep Learning | NLP”?
